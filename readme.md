@@ -6,4 +6,4 @@ Token name: Jimmy's Udacity Token
 
 Token symbol: JUT
 
-Contract address: 0xb5Fb79FC0bF7F028965c4e6AEF655d33A67b0720
+Token address: 0xac491288e2d33951fee8d7792a4eca9d5863ad40
